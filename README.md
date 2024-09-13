@@ -1,7 +1,3 @@
-# vscode
-Here's a sample README description for your stock prediction project using a Linear Regression Machine Learning algorithm:
-
---
 
 **Stock Price Prediction Using Linear Regression**
 
